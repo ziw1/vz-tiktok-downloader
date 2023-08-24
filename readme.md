@@ -7,7 +7,7 @@ npm install vz-tiktok-downloader
 ```
 
 ## Changelog
-> ### v1.0.4
+> ### v2.2.5
 - Fix return undefined.
 - Thumbnail still `undefined`, i'll fix asap.
 
